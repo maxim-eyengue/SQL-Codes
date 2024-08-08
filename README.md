@@ -1,2 +1,3 @@
 # SQL-Codes
-Analysing Data with SQL
+
+SQL files for querying databases in diverse analyses projects.
